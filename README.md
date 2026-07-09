@@ -111,10 +111,10 @@ python scripts/generate_erd.py
 
 | Member | Task |
 |---|---|
-| Contributor A | Task 1 — EDA & Preprocessing |
-| Contributor B | Task 1 — Model Training |
-| **You (Teddy)** | **Task 2 — Database Design (SQL & MongoDB)** |
-| Contributor D | Tasks 3 & 4 — API & Forecast Script |
+| **Principie Cyubahiro** | **Task 1: Time-series Preprocessing and Exploratory Analysis** |
+| **Tedla Tesfaye Godebo** | **Task 2 — Database Design (SQL & MongoDB)** |
+| **Mahlet Assefa Tilahun**| **Task 3: Create Endpoints for CRUD and Time-Series Queries** |
+| **Tapiwanashe Marufu**| **Task 4: Create a Prediction/Forecast Script** |
 
 ---
 
