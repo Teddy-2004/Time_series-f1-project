@@ -1,0 +1,11 @@
+flask
+pymongo
+mongomock
+scikit-learn
+pandas
+numpy
+matplotlib
+joblib
+graphviz
+tabulate
+requests
