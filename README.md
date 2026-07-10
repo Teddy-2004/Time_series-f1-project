@@ -24,7 +24,7 @@ walmart-ts-project/
 ├── Task1/
 │   ├── model/
 │   │   └── store1_model.pkl         # Saved here manually after the notebook generated
-│   ├── EDA&Preprocessing.ipynb        # Notebook for task 1
+│   ├── EDA&Preprocessing.ipynb      # Notebook for task 1
 ├── data/
 │   ├── stores.csv          # Store metadata (45 stores)
 │   ├── features.csv        # Weekly external variables
