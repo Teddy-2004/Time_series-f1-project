@@ -15,3 +15,6 @@ data/*.csv
 
 # Compiled reports / build artefacts
 *.docx
+
+# Task 4 local baseline models (stand-ins until Task 1's sales_model.joblib)
+models/baseline_store_*.joblib
