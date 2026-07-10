@@ -1,0 +1,6 @@
+Experiment,Features,Tuning,RMSE,MAE,MAPE(%)
+Baseline: same week last year,sales_lag_52,-,88398,70783,4.45
+Baseline: last week,sales_lag_1,-,116431,91220,5.71
+Exp A: exogenous only,"temp, fuel, CPI, unemp, holiday, markdowns",none,147051,121848,7.57
+Exp B: exogenous + history,"Exp A + lag_1, lag_52, ma4",none,72870,58494,3.66
+Exp C: Ridge (scaled),all features,alpha=10,55521,40288,2.51
