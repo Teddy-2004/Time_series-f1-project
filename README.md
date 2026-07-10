@@ -28,8 +28,6 @@ walmart-ts-project/
 │   └── walmart_ts.db       # Pre-built SQLite database (Task 2)
 ├── src/
 │   ├── preprocessing.py    # Data loading, merging, feature engineering
-│   ├── eda.py              # Exploratory data analysis (Task 1)
-│   ├── train_model.py      # Model training & hyperparameter tuning (Task 1)
 │   ├── database/
 │   │   ├── mysql_schema.sql        # MySQL DDL — 3-table relational schema
 │   │   ├── mysql_queries.sql       # 4 analytical SQL queries
